@@ -1,10 +1,16 @@
-<h2 align="left">Olá! Me chamo Marcos Bezerra👋</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=montserrat&size=40&pause=1000&multiline=true&repeat=true&random=false&width=690&lines=Olá!Me+chamo+Marcos+Bezerra+👋" alt="Typing SVG" />
+  </a>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoslbz&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoslbz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoslbz&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoslbz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -37,3 +43,5 @@
 <img src="https://raw.githubusercontent.com/marcoslbz/marcoslbz/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&section=footer"/>
